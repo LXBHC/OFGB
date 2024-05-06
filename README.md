@@ -19,7 +19,6 @@
 1) 执行 `git clone https://github.com/zetaloop/OFGB/`
 2) 用 Visual Studio 打开 `OFGB.sln`
 3) 构建项目
-4) 
 
 ## EXE 在哪下载
 --> [**下载请点这儿**](https://github.com/zetaloop/OFGB/releases/latest) <--
