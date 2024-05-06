@@ -128,7 +128,7 @@ namespace OFGB
                 }
                 else
                 {
-                    MessageBox.Show("Null KeyRef Used", "Fatal Error 1", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("Null KeyRef Used 注册表键引用为空", "Fatal Error 致命错误 1", MessageBoxButton.OK, MessageBoxImage.Error);
                     throw new InvalidOperationException("Null KeyRef Used While Creating Key");
                 }
             }
@@ -144,7 +144,7 @@ namespace OFGB
                 }
                 else
                 {
-                    MessageBox.Show("Null KeyRef Used", "Fatal Error 2", MessageBoxButton.OK, MessageBoxImage.Error);
+                    MessageBox.Show("Null KeyRef Used 注册表键引用为空", "Fatal Error 致命错误 2", MessageBoxButton.OK, MessageBoxImage.Error);
                     throw new InvalidOperationException("Null KeyRef Used While Creating Key");
                 }
             }
