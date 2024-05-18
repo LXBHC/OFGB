@@ -13,7 +13,7 @@
 - **以及整个汉化版的基础，[xM4ddy](https://github.com/xM4ddy) 制作的 [OFGB 原版软件](https://github.com/xM4ddy/OFGB)**
 
 ## 下载
-[点击下载软件最新版](https://github.com/xM4ddy/OFGB/releases/latest)，或者前往网页右侧的 "Releases" 发布页。
+[点击下载软件最新版](https://github.com/zetaloop/OFGB/releases/latest)，或者前往网页右侧的 "Releases" 发布页。
 
 ## 构建
 构建 OFGB 需要 [Visual Studio](https://visualstudio.microsoft.com/zh-hans/) 和 [.NET 8.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)。
