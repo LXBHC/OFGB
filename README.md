@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/zetaloop/OFGB/assets/36418285/30474dc4-c73f-4c03-973e-d7af90f317c2" alt="广告滚蛋软件截图"/>
+    <img src="https://github.com/zetaloop/OFGB/assets/36418285/e183ddad-6d61-4390-9e30-51e6e9f29bc7" alt="广告滚蛋软件截图"/>
 </p>
 
 # 广告滚蛋 (OFGB Chinese Translation)
