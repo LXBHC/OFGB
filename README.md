@@ -16,7 +16,7 @@
 [点击下载软件最新版](https://github.com/zetaloop/OFGB/releases/latest)，或者前往网页右侧的 "Releases" 发布页。
 
 ## 构建
-构建 OFGB 需要 [Visual Studio](https://visualstudio.microsoft.com/zh-hans/) 和 [.NET 8.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/6.0)。
+构建 OFGB 需要 [Visual Studio](https://visualstudio.microsoft.com/zh-hans/) 和 [.NET 8.0 SDK](https://dotnet.microsoft.com/zh-cn/download/dotnet/8.0)。
 
 1. 克隆/下载该储存库，可以用 `git clone https://github.com/zetaloop/OFGB`，也可以直接下载项目 ZIP 压缩包。
 2. 在 Visual Studio 中打开解决方案文件。
